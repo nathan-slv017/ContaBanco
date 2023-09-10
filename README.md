@@ -1,2 +1,2 @@
 # ContaBanco
-Um sistema de conta bancária em java
+Projeto em java que apresenta dados de uma conta bancária conforme o usuário informe
